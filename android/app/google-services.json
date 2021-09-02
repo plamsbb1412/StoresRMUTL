@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021696153488",
+    "project_id": "storermutl",
+    "storage_bucket": "storermutl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021696153488:android:e4b4151d4f6b8f9bd6c515",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.stoerrmutl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021696153488-npald8sgdrvtb1p4gch8vahmu6t454bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHLiJl1V68k1KoQBQVpOocPWJOFf_rynk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021696153488-npald8sgdrvtb1p4gch8vahmu6t454bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
